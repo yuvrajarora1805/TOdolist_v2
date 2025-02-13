@@ -39,7 +39,7 @@ A beautiful and interactive todo list application built with React, featuring sm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gettogo.git
+git clone https://github.com/yuvrajarora1805/TOdolist_v2.git
 cd todo-list
 ```
 
